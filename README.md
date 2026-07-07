@@ -2,6 +2,11 @@
 
 Official repository for **Synthetic Night Data for Nighttime Lane Detection: Efficiency Analysis and Data Mixing Strategies**.
 
+### Framework 
+<center>
+  <img src="https://github.com/jylEcho/CGS-Net/blob/main/images/V15.0.png" width="800" alt="">
+</center>
+
 NightLaneSynth investigates how synthetic nighttime data can improve lane detection under real nighttime driving scenarios. The study focuses on the utility of synthetic nighttime images generated from HG-Lane, their domain gap with real nighttime data, and effective synthetic-real data mixing strategies for reducing annotation costs.
 
 ## Overview
