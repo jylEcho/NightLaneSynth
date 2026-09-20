@@ -1,0 +1,29 @@
+{
+  "seed": 20260617,
+  "day_threshold": 80.0,
+  "night_threshold": 60.0,
+  "real_train_total": 88880,
+  "real_day_count": 74950,
+  "real_night_available": 10471,
+  "real_ambiguous_count": 3459,
+  "real_night_full_used": 3500,
+  "syn_night_train_count": 3500,
+  "real_night_test_count": 7029,
+  "syn_night_test_count": 1000,
+  "experiments": [
+    "exp1_day_only",
+    "exp1_day_plus_syn_night_full",
+    "exp1_day_plus_real_night_full",
+    "exp3_mix_syn100_real0",
+    "exp3_mix_syn75_real25",
+    "exp3_mix_syn50_real50",
+    "exp3_mix_syn25_real75",
+    "exp3_mix_syn0_real100",
+    "exp4_real_budget_100",
+    "exp4_real_budget_100_plus_syn_full",
+    "exp4_real_budget_500",
+    "exp4_real_budget_500_plus_syn_full",
+    "exp4_real_budget_1000",
+    "exp4_real_budget_1000_plus_syn_full"
+  ]
+}

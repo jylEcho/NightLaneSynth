@@ -1,0 +1,86 @@
+[
+  {
+    "name": "exp1_day_only",
+    "extra_syn_night": 0,
+    "extra_real_night": 0,
+    "train_count": 74950
+  },
+  {
+    "name": "exp1_day_plus_syn_night_full",
+    "extra_syn_night": 3500,
+    "extra_real_night": 0,
+    "train_count": 78450
+  },
+  {
+    "name": "exp1_day_plus_real_night_full",
+    "extra_syn_night": 0,
+    "extra_real_night": 3500,
+    "train_count": 78450
+  },
+  {
+    "name": "exp3_mix_syn100_real0",
+    "extra_syn_night": 3500,
+    "extra_real_night": 0,
+    "train_count": 78450
+  },
+  {
+    "name": "exp3_mix_syn75_real25",
+    "extra_syn_night": 2625,
+    "extra_real_night": 875,
+    "train_count": 78450
+  },
+  {
+    "name": "exp3_mix_syn50_real50",
+    "extra_syn_night": 1750,
+    "extra_real_night": 1750,
+    "train_count": 78450
+  },
+  {
+    "name": "exp3_mix_syn25_real75",
+    "extra_syn_night": 875,
+    "extra_real_night": 2625,
+    "train_count": 78450
+  },
+  {
+    "name": "exp3_mix_syn0_real100",
+    "extra_syn_night": 0,
+    "extra_real_night": 3500,
+    "train_count": 78450
+  },
+  {
+    "name": "exp4_real_budget_100",
+    "extra_syn_night": 0,
+    "extra_real_night": 100,
+    "train_count": 75050
+  },
+  {
+    "name": "exp4_real_budget_100_plus_syn_full",
+    "extra_syn_night": 3500,
+    "extra_real_night": 100,
+    "train_count": 78550
+  },
+  {
+    "name": "exp4_real_budget_500",
+    "extra_syn_night": 0,
+    "extra_real_night": 500,
+    "train_count": 75450
+  },
+  {
+    "name": "exp4_real_budget_500_plus_syn_full",
+    "extra_syn_night": 3500,
+    "extra_real_night": 500,
+    "train_count": 78950
+  },
+  {
+    "name": "exp4_real_budget_1000",
+    "extra_syn_night": 0,
+    "extra_real_night": 1000,
+    "train_count": 75950
+  },
+  {
+    "name": "exp4_real_budget_1000_plus_syn_full",
+    "extra_syn_night": 3500,
+    "extra_real_night": 1000,
+    "train_count": 79450
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "exp_name": "exp1_day_plus_real_night_full",
+  "ckpt": "/root/autodl-tmp/night_mixing_study_v2/runs/exp1_day_plus_real_night_full/20260617_153014_lr_6e-04_b_24/ckpt/11.pth",
+  "pred_dir": "/root/autodl-tmp/night_mixing_study_v2/eval/exp1_day_plus_real_night_full/pred",
+  "real_night": {
+    "F1@50": 0.7179751785568802,
+    "F1@75": 0.5150042093256932,
+    "mF1": 0.4670559161393694
+  },
+  "synthetic_night": {
+    "F1@50": 0.9000894721145243,
+    "F1@75": 0.7578288100208769,
+    "mF1": 0.6563972561884879
+  }
+}

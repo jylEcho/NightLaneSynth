@@ -1,0 +1,15 @@
+{
+  "exp_name": "exp3_mix_syn0_real100",
+  "ckpt": "/root/autodl-tmp/night_mixing_study_v2/runs/exp3_mix_syn0_real100/20260618_102020_lr_6e-04_b_24/ckpt/11.pth",
+  "pred_dir": "/root/autodl-tmp/night_mixing_study_v2/eval/exp3_mix_syn0_real100/pred",
+  "real_night": {
+    "F1@50": 0.718297224563025,
+    "F1@75": 0.5114850354744883,
+    "mF1": 0.4653165520428413
+  },
+  "synthetic_night": {
+    "F1@50": 0.8968717257895525,
+    "F1@75": 0.7477922466696603,
+    "mF1": 0.6510103277952404
+  }
+}

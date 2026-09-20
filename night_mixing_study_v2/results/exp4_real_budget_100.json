@@ -1,0 +1,15 @@
+{
+  "exp_name": "exp4_real_budget_100",
+  "ckpt": "/root/autodl-tmp/night_mixing_study_v2/runs/exp4_real_budget_100/20260618_102020_lr_6e-04_b_24/ckpt/11.pth",
+  "pred_dir": "/root/autodl-tmp/night_mixing_study_v2/eval/exp4_real_budget_100/pred",
+  "real_night": {
+    "F1@50": 0.6729493494291491,
+    "F1@75": 0.46738604333342826,
+    "mF1": 0.4278108362041966
+  },
+  "synthetic_night": {
+    "F1@50": 0.8843373493975906,
+    "F1@75": 0.7385542168674699,
+    "mF1": 0.6399096385542169
+  }
+}
